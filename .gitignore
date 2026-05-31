@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+data/civicfix.db
+civicfix.db
+
+uploads/
+
+.streamlit/
+
+*.db
